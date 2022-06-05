@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>kraft_arm_msgs</name>
+  <version>0.0.0</version>
+  <description>Package containing messages for kraft arm setup</description>
+
+  <maintainer email="aphung@mit.edu">Amy Phung</maintainer>
+
+  <!-- One license tag required, multiple allowed, one license per tag -->
+  <!-- Commonly used license strings: -->
+  <!--   BSD, MIT, Boost Software License, GPLv2, GPLv3, LGPLv2.1, LGPLv3 -->
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>geometry_msgs</depend>
+  <depend>message_runtime</depend>
+  <depend>std_msgs</depend>
+
+</package>
