@@ -1,6 +1,6 @@
 # Adds precision thresholds and precision tolerances to TransformStamped message
 
-string pose
+geometry_msgs/TransformStamped pose
 string name
-geometry_msgs/Transform pos_tolerance # In meters
-geometry_msgs/Transform rot_tolerance # In radians
+float64 pos_tolerance # In meters
+float64 rot_tolerance # In radians
