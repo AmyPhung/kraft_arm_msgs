@@ -16,6 +16,7 @@ add_message_files(
  FILES
  ToolRequest.msg
  PoseRequest.msg
+ CustomMarkerArray.msg
 )
 
 ## Generate added messages and services with any dependencies listed here
